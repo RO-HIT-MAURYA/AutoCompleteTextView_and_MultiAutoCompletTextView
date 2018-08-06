@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">AutoCompleteTextView</string>
+
+    <!--<string-array name="countries">
+
+        <item>India</item>
+        <item>Pakistan</item>
+        <item>Sri Lanka</item>
+        <item>Bhutan</item>
+        <item>Myanmar</item>
+        <item>Afganistan</item>
+        <item>Bangladesh</item>
+        <item>Nepal</item>
+        <item>China</item>
+
+    </string-array>-->
+
+    <string-array name="name">
+
+        <item>Amit</item>
+        <item>Rohit</item>
+        <item>Ronak</item>
+        <item>Sandeep</item>
+        <item>Rupesh</item>
+        <item>Rahul</item>
+        <item>Pankaj</item>
+
+    </string-array>
+
+</resources>
+
